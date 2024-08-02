@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="2024-08-02 16:26:45" tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="列表更新时间",2024-08-02 16:26:45
-https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/time/time.mp4
-#EXTINF:-1 tvg-name="4K60PSDR-H264-AAC测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="4K频道",4K60PSDR-H264-AAC测试
-https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/sdr4kvideo/index.m3u8
-#EXTINF:-1 tvg-name="4K60PHLG-HEVC-EAC3测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="4K频道",4K60PHLG-HEVC-EAC3测试
-https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/hlg4kvideo/index.m3u8
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/37/7c96090110880e88916b11e4a18cf9_180_135.jpg?1526894329" group-title="一起看", 周星星
 https://www.goodiptv.club/huya/11342412
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1087/91/12fc78c83deb7c3e65724759b1d91c_180_135.jpg?1637028274" group-title="原创", 微竞-琴琴nice

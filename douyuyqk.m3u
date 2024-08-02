@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="2024-08-02 16:27:06" tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="列表更新时间",2024-08-02 16:27:06
-https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/time/time.mp4
-#EXTINF:-1 tvg-name="4K60PSDR-H264-AAC测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="4K频道",4K60PSDR-H264-AAC测试
-https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/sdr4kvideo/index.m3u8
-#EXTINF:-1 tvg-name="4K60PHLG-HEVC-EAC3测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="4K频道",4K60PHLG-HEVC-EAC3测试
-https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/hlg4kvideo/index.m3u8
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201907/42dbbbd5f6234e96ac54d84287f8c47e_big.jpg" group-title="一起看", 橙記Orange丶
 https://www.goodiptv.club/douyu/4549169
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201708/04/17/5ced31536273bed685f9f10a956145e5_big.jpg" group-title="原创IP", 牛叔说电影
