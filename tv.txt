@@ -17,14 +17,19 @@ cctv14-高码,http://192.168.1.200:35455/ysptp/cctv14.m3u8
 cctv15-高码,http://192.168.1.200:35455/ysptp/cctv15.m3u8
 cctv16-高码,http://192.168.1.200:35455/ysptp/cctv16.m3u8
 cctv17-高码,http://192.168.1.200:35455/ysptp/cctv17.m3u8
-CGTN,http://192.168.1.200:35455/itv/7745129417417101820.m3u8?cdn=hnbblive
-CGTN-记录,http://192.168.1.200:35455/itv/7114647837765104058.m3u8?cdn=hnbblive
 cgtnar-高码,http://192.168.1.200:35455/ysptp/cgtnar.m3u8
 cgtndoc-高码,http://192.168.1.200:35455/ysptp/cgtndoc.m3u8
 cgtnen-高码,http://192.168.1.200:35455/ysptp/cgtnen.m3u8
 cgtnfr-高码,http://192.168.1.200:35455/ysptp/cgtnfr.m3u8
 cgtnru-高码,http://192.168.1.200:35455/ysptp/cgtnru.m3u8
 cgtnsp-高码,http://192.168.1.200:35455/ysptp/cgtnsp.m3u8
+
+4K频道,#genre#
+cctv164k_10m,http://192.168.1.200:35455/ysptp/cctv4k16_10m.m3u8
+cctv164k,http://192.168.1.200:35455/ysptp/cctv4k16.m3u8
+cctv4k_10m,http://192.168.1.200:35455/ysptp/cctv4k_10m.m3u8
+cctv4k,http://192.168.1.200:35455/ysptp/cctv4k.m3u8
+
 
 NEWTV,#genre#
 NewTV-爱情喜剧,http://192.168.1.200:35455/itv/2000000003000000010.m3u8?cdn=hnbblive
@@ -35,7 +40,6 @@ NewTV-军事评论,http://192.168.1.200:35455/itv/2000000003000000022.m3u8?cdn=h
 NewTV-明星大片,http://192.168.1.200:35455/itv/2000000003000000016.m3u8?cdn=hnbblive
 NewTV-农业致富,http://192.168.1.200:35455/itv/2000000003000000003.m3u8?cdn=hnbblive
 NewTV-武博世界,http://192.168.1.200:35455/itv/2000000003000000007.m3u8?cdn=hnbblive
-NewTV-中国功夫,http://192.168.1.200:35455/itv/2000000003000000009.m3u8?cdn=hnbblive
 
 咪咕体育,#genre#
 咪咕视频_8M1080_湖南bblive-1,http://192.168.1.200:35455/itv/2000000003000000060.m3u8?cdn=hnbblive
