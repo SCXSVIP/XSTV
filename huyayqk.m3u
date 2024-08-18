@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="2024-08-18 09:22:51" tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="列表更新时间",2024-08-18 09:22:51
-https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/time/time.mp4
-#EXTINF:-1 tvg-name="4K60PSDR-H264-AAC测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="4K频道",4K60PSDR-H264-AAC测试
-https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/sdr4kvideo/index.m3u8
-#EXTINF:-1 tvg-name="4K60PHLG-HEVC-EAC3测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="4K频道",4K60PHLG-HEVC-EAC3测试
-https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/hlg4kvideo/index.m3u8
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1078/fc/8bec6d0793db116484afbf1768e5e9_180_135.jpg?1723003562" group-title="一起看", 回去拿马卡报
 https://www.goodiptv.club/huya/30080238
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1045/a2/33c41a259f8e9e4833114967ba352d_180_135.jpg?1721904504" group-title="原创", 宝藏熊宝
